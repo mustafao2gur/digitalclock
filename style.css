@@ -1,0 +1,56 @@
+
+
+#clock{
+    text-align: center;
+    width: 50%;
+    position: absolute;
+    top:30%;
+    left: 30%;
+   background-color: #384259;
+    color: #f1ff8d;
+    width: 100vh;
+
+
+
+}
+
+
+.clock_box{
+     background-color: #384259;
+    color: #f1ff8d;
+}
+h2{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 1.5rem;
+}
+.clok-container{
+    display: flex;
+    flex-direction: row;
+    justify-content:center ;
+    align-items: center;
+    align-content: center;
+}
+.clok-item{
+    width: 30%;
+    background-color: #e5cda8;
+    /* color: #062b39; */
+    color: #067860;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 3rem;
+    font-size: 3rem;
+font-family: 'Anton', sans-serif;
+}
+
+.box1:hover{
+    background-color: #f2b663;
+    color: #062b39;
+}
+.box2:hover{
+    background-color: #f2b663;
+    color: #062b39;
+}
+.box3:hover{
+    background-color: #f2b663;
+    color: #062b39;
+}
